@@ -29,3 +29,5 @@ Je vous mets donc en demeure de :
 Comptant sur votre diligence, je vous prie d’agréer, Madame, Monsieur, mes salutations distinguées.
 
 M. / Mme XXXXX
+
+À toutes fins utiles, vous trouverez les extraits des articles pertinents à l'adresse https://github.com/AnnoyingTechnology/garantie-legale-2ans-vendeur/blob/master/README.md 
